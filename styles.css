@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(219, 241, 213);
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-shadow: 2px 2px 5px rgb(41, 83, 51);
+}
+
+ul {
+  list-style-type: square;
+}
+
+a:link {
+  color: rgb(189, 31, 113)
+}
+
+a:vistied {
+  color: rgb(11, 3, 40);
+}
